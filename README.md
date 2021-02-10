@@ -6,9 +6,11 @@ The goal of this analysis was to determine if there was any bias in reviews that
 ## Results
 Note that only reviews with at least 20 votes, of which more than half were helpful, were analyzed. 
 
-The results of the analysis for Vine program participants were as follows:   
+The results of the analysis for Vine program participants and non-participants were as follows:   
 
 ![vine_reviews](/vine_reviews.png).
+
+![non_vine_reviews](/non_vine_reviews.png).
 
 
 
