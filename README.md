@@ -8,7 +8,7 @@ Note that only reviews with at least 20 votes, of which more than half were help
 
 The results of the analysis for Vine program participants were as follows:   
 
-
+![vine_reviews](/vine_reviews.png).
 
 
 
