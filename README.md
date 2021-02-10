@@ -10,7 +10,7 @@ The results of the analysis for Vine program participants and non-participants w
 
 ![vine_reviews](/vine_reviews.png).
 
-![non_vine_reviews](/non_vine_reviews.png).
+![not_vine_reviews](/not_vine_reviews.png).
 
 
 
