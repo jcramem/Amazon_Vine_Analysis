@@ -11,6 +11,6 @@ The results of the analysis for Vine program participants and non-participants w
 ![vine_reviews](/vine_reviews.png).
 
 ![not_vine_reviews](/not_vine_reviews.png).
+* There were substantially more reviews from non-participants, 4,957, than Vine program participants, 35.
 
-* There were substantially more reviews from non-partipcants, 4,957, than Vine program parctipants, 35.
 
